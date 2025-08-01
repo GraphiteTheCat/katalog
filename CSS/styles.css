@@ -7,7 +7,8 @@ body {
 }
 
 h1 {
-    justify-self:center;
+    margin:auto;
+    margin-top:8px;
     width:fit-content;
     border-top:2px solid black;
     border-bottom:2px solid black;
@@ -112,3 +113,4 @@ footer {
 footer > * {
     margin:0;
 }
+
