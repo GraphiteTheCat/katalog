@@ -7,8 +7,9 @@ body {
 }
 
 h1 {
-    margin:auto;
-    margin-top:8px;
+    display:flex;
+    justify-self:center;
+    margin:20px 0 20px 0;
     width:fit-content;
     border-top:2px solid black;
     border-bottom:2px solid black;
@@ -103,7 +104,6 @@ header {
 header > * {
     max-height:89px;
     max-width:90%;
-    margin:0;
 }
 
 footer {
@@ -118,5 +118,6 @@ footer {
 footer > * {
     margin:0;
 }
+
 
 
